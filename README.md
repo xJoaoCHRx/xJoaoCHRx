@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xJoaoCHRx
 - 👀 I’m interested in Research, Psychology, Biology and Data Science
-- 🌱 I’m currently learning Python and Data Analysis
+- 🌱 I’m currently learning Python, R and Data Analysis
 - 💞️ I’m looking to collaborate on research projects that requires a Data Analyst and/or a Psychologist
 - 📫 Reach me on my e-mail: chruscieljoao@gmail.com
 
